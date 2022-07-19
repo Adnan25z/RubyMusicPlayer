@@ -1,0 +1,91 @@
+4
+X
+Ed Sheeran
+images/download (2).png
+1
+10
+One
+music/01 One.wav
+I'm a Mess
+music/02 I'm a Mess.wav
+Sing
+music/03 Sing.wav
+Don't
+music/04 Don't.wav
+Photograph
+music/06 Photograph.wav
+Bloodstream
+music/07 Bloodstream.wav
+Tenerife Sea
+music/08 Tenerife Sea.wav
+Runaway
+music/09 Runaway.wav
+The Man
+music/10 The Man.wav
+Thinking Out Loud
+music/11 Thinking Out Loud.wav
+Thriller
+Michael Jackson
+images/images (1).png
+2
+9
+Wanna Be Startin'
+music/01. Wanna Be Startin' Somethin'.mp3
+Baby Be Mine
+music/02. Baby Be Mine.mp3
+The Girl Is Mine
+music/03. The Girl Is Mine.mp3
+Thriller
+music/04. Thriller.mp3
+Beat It
+music/05. Beat It.mp3
+Billie Jean
+music/06. Billie Jean.mp3
+Human Nature
+music/07. Human Nature.mp3
+Pretty Young Thing
+music/08. P.Y.T. (Pretty Young Thing).mp3
+The Lady In My Life
+music/09. The Lady In My Life.mp3
+Revolver
+The Beatles
+images/Revolver (1).png
+1
+8
+For No One
+music/For No One.wav
+Got To Get You
+music/Got To Get You Into My Life.wav
+Yellow Submarine
+music/07 - The Beatles - Yellow Submarine.wav
+I Want To Tell You
+music/I Want To Tell You.wav
+I'm Only Sleeping
+music/I_m Only Sleeping.wav
+Rain
+music/Rain.wav
+Taxman
+music/Taxman.wav
+Tomorrow Never Knows
+music/Tomorrow Never Knows.wav
+Dark side Of The Moon
+Pink Floyd
+images/album4.png
+4
+8
+Speak To Me
+music/01 - Speak To Me.mp3
+Breathe
+music/02 - Breathe.mp3
+On The Run
+music/03 - On The Run.mp3
+Time
+music/04 - Time.mp3
+Money
+music/06 - Money.mp3
+Us And Them
+music/07 - Us And Them.mp3
+Brain Damage
+music/09 - Brain Damage.mp3
+Eclipse
+music/10 - Eclipse.mp3
