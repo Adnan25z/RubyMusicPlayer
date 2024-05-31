@@ -2,6 +2,7 @@
 
 ## Introduction
 RubyMusicPlayer is a simple music player application developed using Ruby. The application provides a graphical user interface (GUI) to manage and play music files, utilizing the basic capabilities of Ruby for file handling and GUI operations.
+![Gameplay Image](images/ruby.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
