@@ -47,7 +47,7 @@ The RubyMusicPlayer project provides a simple music player with a GUI, demonstra
 
 ### Key Components
 - Music Playback: Utilizes Ruby's built-in capabilities to handle and play music files.
-- GUI: Built using Ruby's GUI libraries to create an intuitive interface for users.
+- GUI: Built using Ruby's GUI library GOSU to create an intuitive interface for users.
 - File Management: Functions for organizing and managing music files.
 
 ### File Handling
